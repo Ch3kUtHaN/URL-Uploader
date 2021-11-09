@@ -11,7 +11,7 @@ Made with Python3
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/URL-Uploader">
+  <a href="https://heroku.com/deploy?template=https://github.com/Ch3kUtHaN/URL-Uploader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
